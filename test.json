@@ -1,0 +1,70 @@
+{
+    "schedule": [{
+        "eventId": "20145",
+        "eventType": "Board Meeting",
+        "mealType": "Breakfast",
+        "startTime": "00: 08: 00",
+        "endTime": "00: 10: 00",
+        "room": "CC205",
+        "chair": "Mickey Mouse",
+        "subjectArea": "Social Media",
+        "eventTitle": "The Land Before Twitter",
+        "date": "14 June 2017",
+        "presenter": [{
+            "firstName": "King",
+            "lastName": "Kong",
+            "affiliation": "ENMU"
+        }, {
+            "firstName": "Donald",
+            "lastName": "Duck",
+            "affiliation": "SACC"
+        }],
+        "customLabel": "Board Meeting",
+        "note": ""
+    } ],
+
+    "save": [{
+        "eventId": "20145",
+        "eventType": "Board Meeting",
+        "mealType": "Breakfast",
+        "startTime": "00: 08: 00",
+        "endTime": "00: 10: 00",
+        "room": "CC205",
+        "chair": "Mickey Mouse",
+        "subjectArea": "Social Media",
+        "eventTitle": "The Land Before Twitter",
+        "date": "14 June 2017",
+        "presenter": [{
+            "firstName": "King",
+            "lastName": "Kong",
+            "affiliation": "ENMU"
+        }, {
+            "firstName": "Donald",
+            "lastName": "Duck",
+            "affiliation": "SACC"
+        }],
+        "customLabel": "Board Meeting",
+        "note": ""
+    } ],
+
+    "message": [{
+        "messageId": "",
+        "title": "",
+        "messageText": "",
+        "dateTime": "",
+        "category": "",
+        "photo": "",
+        "link": ""
+    }],
+    "other": [{
+			"firstName": "Homer",
+			"lastName": "Simpson",
+			"affiliation": "WTAMU",
+			"photo": "",
+			"bio": "Homer has a doctorate in Computer Science.  He has 5 years as a Tenored Professor with WTAMU",
+			"events": "",
+			"link": ""
+
+    } ]
+
+}
